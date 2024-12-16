@@ -1,0 +1,1006 @@
+
+body {
+    font-family: 'Inter' !important;
+}
+
+
+.read-more {
+    display: inline-block;
+    background-color: #00B0EF; 
+    color:#fff !important;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px; 
+    transition: background-color 0.3s, color 0.3s; 
+    margin-top: 20px; 
+}
+
+.read-more:hover {
+    border: 2px solid #00B0EF; 
+    color: #000 !important; 
+    background-color:transparent;
+}
+
+
+
+
+
+@media (min-width: 1901px){
+
+
+    
+    a.request_quote
+    {
+        display: none;
+    }
+
+    a.navbar-brand{
+        width: 250px;
+    }
+
+
+    /* Main Styles */
+.header-info {
+ background-color: #00B0EF; 
+ color: white;
+ padding: 10px 20px;
+ display: flex;
+ flex-wrap: wrap;
+ align-items: center;
+ justify-content: space-between;
+ font-size: 16px;
+}
+
+.header-info .contact-item {
+ display: flex;
+ align-items: center;
+}
+
+.header-info .contact-item img {
+ width: 20px;
+ height: 20px;
+ margin-right: 8px;
+}
+
+.header-info .email, .header-info .phone {
+ display: flex;
+ flex-wrap: wrap;
+ align-items: center;
+ padding: 0px 20px;
+}
+
+
+/* ----------nav---- */
+
+.content {
+    text-align: left;
+    color: white;
+    margin: 0px 100px;
+    padding: 20px;
+}
+
+
+/* -----------about------- */
+
+
+.company-overview{
+    display: flex;
+    margin: 60px auto;
+}
+
+
+.overview-image img {
+    width: 500px;
+    height: 500px;
+    border-radius: 8px;
+}
+
+
+/* -------property-------- */
+
+.property-item {
+    overflow: hidden;
+    margin: 20px auto;
+    border-radius: 10px;
+}
+
+
+/* -------------about  page------------ */
+
+.vision , .mission
+{
+    color: white !important;
+    background-color: #0E2F4F !important;
+    padding: 20px 40px;
+    text-align: center;
+    height: 380px !important;
+}
+
+
+.vission-sec
+{
+    margin: 40px auto;
+    padding: 60px 0px;
+}
+
+
+/* ------------------contact page-------------- */
+
+.contact-sec {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+p.phone {
+    background-color: #ffcc00;
+    width: 55%;
+    padding: 10px;
+    border-radius: 7px;
+    color: #00B0EF;
+}
+
+
+
+}
+
+
+
+@media (min-width: 1701px) and (max-width: 1900px)
+{
+
+    
+    a.request_quote
+    {
+        display: none;
+    }
+
+    a.navbar-brand{
+        width: 250px;
+    }
+
+    a.request_quote {
+        background-color: #00B0EF;
+        border-radius: 4px;
+        color: #fff !important;
+        padding: 10px 20px;
+        margin: auto;
+    }
+
+    a.navbar-brand {
+        width: 150px;
+    }
+
+    /* Main Styles */
+.header-info {
+ background-color: #00B0EF; /* Matches the yellow background */
+ color: white;
+ padding: 10px 20px;
+ display: flex;
+ flex-wrap: wrap;
+ align-items: center;
+ justify-content: space-between;
+ font-size: 16px;
+}
+
+.header-info .contact-item {
+ display: flex;
+ align-items: center;
+}
+
+.header-info .contact-item img {
+ width: 20px;
+ height: 20px;
+ margin-right: 8px;
+}
+
+.header-info .email, .header-info .phone {
+ display: flex;
+ flex-wrap: wrap;
+ align-items: center;
+ padding: 0px 20px;
+}
+
+
+/* ----------nav---- */
+
+.content {
+    text-align: left;
+    color: white;
+    margin: 0px 100px;
+    padding: 20px;
+}
+
+
+/* -----------about------- */
+
+
+.company-overview{
+    display: flex;
+    margin: 60px auto;
+}
+
+
+.overview-image img {
+    width: 500px;
+    height: 500px;
+    border-radius: 8px;
+}
+
+
+/* -------property-------- */
+
+.property-item {
+    overflow: hidden;
+    margin: 20px auto;
+    border-radius: 10px;
+}
+
+/* -------------about  page------------ */
+
+.vision , .mission
+{
+    color: white !important;
+    background-color: #0E2F4F !important;
+    padding: 20px 40px;
+    text-align: center;
+    height: 380px !important;
+}
+
+
+.vission-sec
+{
+    margin: 40px auto;
+    padding: 60px 0px;
+}
+
+
+/* ------------------contact page-------------- */
+
+.contact-sec {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+p.phone {
+    background-color: #ffcc00;
+    width: 55%;
+    padding: 10px;
+    border-radius: 7px;
+    color: #00B0EF;
+}
+
+
+
+}
+
+
+@media (min-width: 1301px) and (max-width: 1700px) {
+
+
+    
+    a.request_quote
+    {
+        display: none;
+    }
+
+    a.navbar-brand{
+        width: 250px;
+    }
+
+
+        /* Main Styles */
+.header-info {
+    background-color: #00B0EF; /* Matches the yellow background */
+    color: white;
+    padding: 10px 20px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 16px;
+   }
+   
+   .header-info .contact-item {
+    display: flex;
+    align-items: center;
+   }
+   
+   .header-info .contact-item img {
+    width: 20px;
+    height: 20px;
+    margin-right: 8px;
+   }
+   
+   .header-info .email, .header-info .phone {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 0px 20px;
+   }
+   
+   
+   /* ----------nav---- */
+   
+   .content {
+       text-align: left;
+       color: white;
+       margin: 0px 100px;
+       padding: 20px;
+   }
+   
+   
+   /* -----------about------- */
+   
+   
+   .company-overview{
+       display: flex;
+       margin: 60px auto;
+   }
+   
+   
+   .overview-image img {
+       width: 500px;
+       height: 500px;
+       border-radius: 8px;
+   }
+   
+   
+   /* -------property-------- */
+   
+   .property-item {
+    overflow: hidden;
+    margin: 20px auto;
+    border-radius: 10px;
+}
+   
+   
+   /* -------------about  page------------ */
+   
+   .vision , .mission
+   {
+       color: white !important;
+       background-color: #0E2F4F !important;
+       padding: 20px 40px;
+       text-align: center;
+       height: 380px !important;
+   }
+   
+   
+   .vission-sec
+   {
+       margin: 40px auto;
+       padding: 60px 0px;
+   }
+   
+   
+   /* ------------------contact page-------------- */
+   
+   .contact-sec {
+       display: flex;
+       justify-content: center;
+       align-items: center;
+       padding: 20px;
+   }
+   
+   p.phone {
+       background-color: #ffcc00;
+       width: 55%;
+       padding: 10px;
+       border-radius: 7px;
+       color: #00B0EF;
+   }
+   
+}
+
+
+
+@media (min-width: 1025px) and (max-width: 1300px) {
+
+
+    a.request_quote
+    {
+        display: none;
+    }
+
+    a.navbar-brand{
+        width: 300px;
+    }
+
+
+      /* Main Styles */
+.header-info {
+    background-color: #00B0EF; /* Matches the yellow background */
+    color: white;
+    padding: 10px 20px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 16px;
+   }
+   
+   .header-info .contact-item {
+    display: flex;
+    align-items: center;
+   }
+   
+   .header-info .contact-item img {
+    width: 20px;
+    height: 20px;
+    margin-right: 8px;
+   }
+   
+   .header-info .email, .header-info .phone {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 0px 20px;
+   }
+   
+   
+   /* ----------nav---- */
+   
+   .content {
+       text-align: left;
+       color: white;
+       margin: 0px 100px;
+       padding: 20px;
+   }
+   
+   
+   /* -----------about------- */
+   
+   
+   .company-overview{
+       display: flex;
+       margin: 40px auto;
+   }
+   
+   
+   .overview-image img {
+       width: 500px;
+       /* height: 500px; */
+       height: 420px;
+       border-radius: 8px;
+   }
+   
+   
+   /* -------property-------- */
+   
+   .property-item {
+    overflow: hidden;
+    margin: 20px auto;
+    border-radius: 10px;
+}
+   
+   
+   /* -------------about  page------------ */
+   
+   .vision , .mission
+   {
+       color: white !important;
+       background-color: #0E2F4F !important;
+       padding: 20px 40px;
+       text-align: center;
+   }
+   
+   
+   .vission-sec
+   {
+       margin: 40px auto;
+       padding: 60px 0px;
+   }
+   
+   
+   /* ------------------contact page-------------- */
+   
+   .contact-sec {
+       display: flex;
+       justify-content: center;
+       align-items: center;
+       padding: 20px;
+   }
+   
+   p.phone {
+       background-color: #ffcc00;
+       width: 55%;
+       padding: 10px;
+       border-radius: 7px;
+       color: #00B0EF;
+   }
+   
+
+}
+
+
+
+@media (min-width: 767px) and (max-width: 1025px) {
+
+
+    a.request_quote
+    {
+        display: none;
+    }
+
+    a.navbar-brand {
+        width: 150px;
+    }
+
+       /* Main Styles */
+.header-info {
+    background-color: #00B0EF; /* Matches the yellow background */
+    color: white;
+    padding: 10px 20px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 16px;
+   }
+   
+   .header-info .contact-item {
+    display: flex;
+    align-items: center;
+   }
+   
+   .header-info .contact-item img {
+    width: 20px;
+    height: 20px;
+    margin-right: 8px;
+   }
+   
+   .header-info .email, .header-info .phone {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 0px 20px;
+   }
+   
+   
+   /* ----------nav---- */
+   
+   .content {
+       text-align: left;
+       color: white;
+       margin: 0px 100px;
+       padding: 20px;
+   }
+   
+   
+   /* -----------about------- */
+   
+   
+   .company-overview{
+       display: flex;
+       margin: 60px auto;
+       flex-wrap: wrap;
+       justify-content: center;
+   }
+   
+   
+   .overview-image img {
+       /* width: 500px; */
+       margin-bottom: 40px;
+       height: 420px;
+       border-radius: 8px;
+   }
+   
+   
+   /* -------property-------- */
+   
+   .property-item {
+    overflow: hidden;
+    border-radius: 10px;
+    margin: 10px 0px;
+}
+   
+   
+   /* -------------about  page------------ */
+   
+   .vision , .mission
+   {
+       color: white !important;
+       background-color: #0E2F4F !important;
+       padding: 20px 40px;
+       text-align: center;
+   }
+   
+   
+   .vission-sec
+   {
+       margin: 40px auto;
+       padding: 60px 0px;
+   }
+   
+   
+   /* ------------------contact page-------------- */
+   
+   .contact-sec {
+       display: flex;
+       justify-content: center;
+       align-items: center;
+       padding: 20px;
+   }
+   
+   p.phone {
+       background-color: #ffcc00;
+       width: 55%;
+       padding: 10px;
+       border-radius: 7px;
+       color: #00B0EF;
+   }
+   
+
+}
+
+
+
+@media (min-width: 501px) and (max-width: 768px) {
+
+    a.request_quote {
+        background-color: #00B0EF;
+        border-radius: 4px;
+        color: #fff !important;
+        padding: 10px 20px;
+        margin: auto;
+    }
+
+    a.navbar-brand {
+        width: 150px;
+    }
+
+    .header-info {
+        background-color: #00B0EF; 
+        color: white;
+        padding: 10px 20px;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: space-between;
+        font-size: 16px;
+    }
+    
+    .header-info .contact-item {
+        display: flex;
+        align-items: center;
+    }
+    
+    .header-info .contact-item img {
+        width: 20px;
+        height: 20px;
+        margin-right: 8px;
+    }
+    
+    .header-info .email, .header-info .phone {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        width: 100%;
+    }
+
+
+    /* --------------nav---------- */
+
+    .content {
+        text-align: left;
+        color: white;
+        padding: 20px;
+    }
+
+    
+/* ------------about------------ */
+
+.company-overview{
+    display: flex;
+    margin: 60px auto;
+    flex-wrap: wrap;
+}
+    
+.overview-image img {
+    width: 100%;
+    border-radius: 8px;
+    margin: 40px auto;
+}
+
+
+/* ---------property---------- */
+
+.property-item {
+    margin: 20px;
+    overflow: hidden;
+    border-radius: 10px;
+}
+
+
+/* --------about page--------- */
+
+.vission-sec
+{
+    margin: 40px auto;
+}
+
+
+
+.vision , .mission
+{
+    color: white !important;
+    background-color: #0E2F4F !important;
+    padding: 20px 40px;
+margin: 20px;
+    text-align: center;
+}
+
+
+/* --------------contact page----------- */
+
+.contact-sec {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 60px 20px;
+}
+
+p.phone {
+    background-color: #ffcc00;
+    width: 100%;
+    padding: 10px;
+    border-radius: 7px;
+    color: #00B0EF;
+}
+
+
+}
+
+
+
+@media (min-width: 351px) and (max-width: 500px) {
+
+    a.request_quote {
+        background-color: #00B0EF;
+        border-radius: 4px;
+        color: #fff !important;
+        padding: 10px 20px;
+        margin: auto;
+    }
+
+    a.navbar-brand {
+        width: 150px;
+    }
+
+    .header-info {
+        background-color: #00B0EF; 
+        color: white;
+        padding: 10px 20px;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: space-between;
+        font-size: 16px;
+    }
+    
+    .header-info .contact-item {
+        display: flex;
+        align-items: center;
+    }
+    
+    .header-info .contact-item img {
+        width: 20px;
+        height: 20px;
+        margin-right: 8px;
+    }
+    
+    .header-info .email, .header-info .phone {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        width: 100%;
+    }
+
+
+    /* --------------nav---------- */
+
+    .content {
+        text-align: left;
+        color: white;
+        padding: 20px;
+    }
+
+    
+/* ------------about------------ */
+
+.company-overview{
+    display: flex;
+    margin: 60px auto;
+    flex-wrap: wrap;
+}
+    
+.overview-image img {
+    width: 100%;
+    border-radius: 8px;
+    margin: 40px auto;
+}
+
+
+/* ---------property---------- */
+
+.property-item {
+    margin: 20px;
+    overflow: hidden;
+    border-radius: 10px;
+}
+
+
+/* --------about page--------- */
+
+.vission-sec
+{
+    margin: 40px auto;
+}
+
+
+
+.vision , .mission
+{
+    color: white !important;
+    background-color: #0E2F4F !important;
+    padding: 20px 40px;
+margin: 20px;
+    text-align: center;
+}
+
+
+/* --------------contact page----------- */
+
+.contact-sec {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 60px 20px;
+}
+
+p.phone {
+    background-color: #ffcc00;
+    width: 100%;
+    padding: 10px;
+    border-radius: 7px;
+    color: #00B0EF;
+}
+
+
+}
+
+
+
+@media (min-width: 05px) and (max-width: 350px) {
+
+  
+    a.request_quote {
+        background-color: #00B0EF;
+        border-radius: 4px;
+        color: #fff !important;
+        padding: 10px 20px;
+        margin: auto;
+    }
+
+    a.navbar-brand {
+        width: 150px;
+    }
+
+    .header-info {
+        background-color: #00B0EF; 
+        color: white;
+        padding: 10px 20px;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: space-between;
+        font-size: 16px;
+    }
+    
+    .header-info .contact-item {
+        display: flex;
+        align-items: center;
+    }
+    
+    .header-info .contact-item img {
+        width: 20px;
+        height: 20px;
+        margin-right: 8px;
+    }
+    
+    .header-info .email, .header-info .phone {
+        display: flex;
+        flex-wrap: wrap;
+        font-size: 10px;
+        font-weight: 600;
+        width: 100%;
+    }
+
+
+
+    /* --------------nav---------- */
+
+    .content {
+        text-align: left;
+        color: white;
+        padding: 20px;
+    }
+
+    
+/* ------------about------------ */
+
+.company-overview{
+    display: flex;
+    margin: 60px auto;
+    flex-wrap: wrap;
+}
+    
+.overview-image img {
+    width: 100%;
+    border-radius: 8px;
+    margin: 40px auto;
+}
+
+
+/* ---------property---------- */
+
+.property-item {
+    margin: 20px;
+    overflow: hidden;
+    border-radius: 10px;
+}
+
+
+/* --------about page--------- */
+
+.about-con {
+    padding: 0px 10px;
+}
+
+
+.vission-sec
+{
+    margin: 40px auto;
+}
+
+
+
+.vision , .mission
+{
+    color: white !important;
+    background-color: #0E2F4F !important;
+    padding: 20px 0px;
+margin: 20px 10px;
+    text-align: center;
+}
+
+
+/* --------------contact page----------- */
+
+.contact-sec {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 60px 20px;
+}
+
+p.phone {
+    background-color: #ffcc00;
+    width: 100%;
+    padding: 10px;
+    border-radius: 7px;
+    color: #00B0EF;
+}
+
+a.mail {
+    font-size: 14px;
+}
+
+}
